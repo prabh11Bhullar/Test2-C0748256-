@@ -40,6 +40,13 @@ public class BlazeDemoTest {
 		//get the dropdownlist
 		
       WebElement checkbox = driver.findElement(By.className("form-inline"));
+      //click on  btn
+      
+     // WebElement button = driver.findElement(By.className("btn btn-primary"));
+	  // button.click();
+	   //get the result
+	   //WebElement outputBox = driver.findElement(By.className("container"));
+	  
 		
 	}
 
